@@ -1,6 +1,6 @@
 # GhostShip
 
-GhostShip is an AI-powered port intelligence platform built for **Solution Challenge 2026 - Build with AI**. It helps customs officers and port operations teams detect suspicious shipments, validate trade documents, prioritize inspections, and generate plain-language risk explanations using modern AI services.
+GhostShip is an AI-powered port intelligence platform built for **BUIlDFEST**. It helps customs officers and port operations teams detect suspicious shipments, validate trade documents, prioritize inspections, and generate plain-language risk explanations using modern AI services.
 
 ## Challenge Theme
 
