@@ -1,0 +1,1 @@
+from .csv_loader import fetch_shipments_from_csv
