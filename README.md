@@ -172,7 +172,6 @@ This powers:
 - Addresses a real logistics and border-control problem with measurable operational value
 
 ## Future Scope
-
 - live sanctions and vessel feed integration
 - stronger graph/network fraud detection
 - multilingual document understanding
