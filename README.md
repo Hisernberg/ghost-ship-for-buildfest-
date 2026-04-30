@@ -1,4 +1,4 @@
-# GhostShip, | [Demo](https://ghostship-4fg0.onrender.com) |( hosted on render) 
+# GhostShip, | [Prototype](https://ghostship-4fg0.onrender.com) |( hosted on render) 
 
 GhostShip is an AI-powered port intelligence platform built for **BUIlDFEST**. It helps customs officers and port operations teams detect suspicious shipments, validate trade documents, prioritize inspections, and generate plain-language risk explanations using modern AI services.
 
